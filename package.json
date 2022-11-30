@@ -1,0 +1,24 @@
+{
+	"name": "com.gentlymadstudios.vdfserializer",
+	"version": "0.1.0",
+	"displayName": "VdfSerializer",
+	"description": "https://github.com/shravan2x",
+	"unity": "2022.1",
+	"unityRelease": "16f1",
+	"dependencies": {
+	},
+	"keywords": [
+		"editor",
+    "unityeditor",
+    "vdfserializer",
+		"vdf",
+		"json",
+		"jsonconverter",
+		"gentlymad"
+	],
+	"author": {
+		"name": "Gentlymad Studios",
+		"url": "https://gentlymadstudios.com",
+		"email": "team@gentlymadstudios.com"
+	}
+}
