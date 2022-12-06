@@ -5,6 +5,9 @@
 	"description": "https://github.com/shravan2x",
 	"unity": "2022.1",
 	"unityRelease": "16f1",
+	"documentationUrl": "https://github.com/Gentlymad-Studios/VdfSerializer/blob/master/README.md",
+	"changelogUrl": "https://github.com/Gentlymad-Studios/VdfSerializer/blob/master/CHANGELOG.md",
+	"licensesUrl": "https://github.com/Gentlymad-Studios/VdfSerializer/blob/master/LICENSE.md",
 	"dependencies": {
 	},
 	"keywords": [
